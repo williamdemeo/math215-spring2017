@@ -41,7 +41,6 @@ The url for this page is https://github.com/williamdemeo/math215-spring2017
 **Office Hours:** TBD  
 **Recitation times/location:** Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 
-----------------------
 
 **Main Course Webpage:** [github.com/williamdemeo/math215-spring2017](https://github.com/williamdemeo/math215-spring2017)
 
@@ -102,8 +101,8 @@ Please bookmark this page or, better yet,
  http://github.com/williamdemeo/math215-spring2017">click here</a> to email the url of this
  page to yourself!
 
-The ISU Blackboard system will be used only for recording test scores and
-grades. Please Note, the Blackboard system often reports cumulative grade totals
+The UH Laulima system will be used only for recording test scores and
+grades. Please Note, the Laulima may report cumulative grade totals
 that bear little relation to the course grades as they will be computed at
 the end of the semester. If you want to find out where you stand in the class,
 please keep track of your grades and refer to the
@@ -112,18 +111,18 @@ please keep track of your grades and refer to the
 
 Class Meeting Times
 -------------------
-**Lecture:** MWF 8--8:50am Carver 0001.
+**Lecture:** MWF 12:30--13:20 Bilger 150.
 
 **Recitation:**
-- Sec 4: T 8--8:50am Carver 0074.  
-- Sec 6: T 12:10--1pm Carver 0282.  
-- Sec 8: T 9--9:50am Beyer 2308.
+- Section 1 (CRN 86480): WF 9:30--10:20am, Keller 301  
+- Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
+- Section 3 (CRN 84310): WF 11:30am--12:20pm, Keller 402  
 
 Overview, Prerequisites, Outcomes
 ---------------------------------
 
 **Overview**  
-We will cover Chapters 1 through 6 of [the textbook](#textbook),
+We will cover roughly Chapters 1--9, and 11 of [the textbook](#textbook),
 which includes the following topics:
 
 1. Preliminaries  
@@ -271,7 +270,7 @@ one of the following:
 
 + Medical excuse - student's own medical emergency.
 + Medical excuse - a member of the student's family has a medical emergency.
-+ Extra curricular activities as a representative of Iowa State University.
++ Extra curricular activities as a representative of University of Hawaii.
 + Armed forces deployment (military duty).
 + Officially mandated court appearances, including jury duty.
 
@@ -403,9 +402,6 @@ Affairs, in a  manner consistent with university regulations, which range from a
 warning to expulsion from the university.
 
 
-Classroom Policy
-----------------
-In this course, we follow the general university classroom policy: http://www.math.iastate.edu/Faculty/ClassPolicies.html
 
 
 Students With Disabilities
@@ -481,16 +477,13 @@ Detailed Course Objectives
 
 Additional Resources
 --------------------
-+ [Piazza][]
-+ [WebAssign][]
-+ [ISU Math Department](http://www.math.iastate.edu/)
-+ [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)
++ [Piazza (for online discussions)](https://piazza.com/hawaii/spring2017/math215/home)
++ [MyLabsPlus][]
++ [UH Math Department](http://www.math.hawaii.edu/)
 + [Math Stackexchange](http://math.stackexchange.com/)
 
-[Piazza]: https://piazza.com/iastate/fall2015/math160/home
-[Piazza page]: https://piazza.com/iastate/fall2015/math160/home
-[Piazza signup page]: https://piazza.com/iastate/fall2015/math160
-[MyLabsPlus]: http://www.iastate.mylabsplus.com
-[MyLabsPlus website]: http://www.iastate.mylabsplus.com
-[WebAssign]: http://www.webassign.net
-[WebAssign website]: http://www.webassign.net
+[Piazza]: https://piazza.com/hawaii/spring2017/math215/home
+[Piazza page]: https://piazza.com/hawaii/spring2017/math215/home
+[Piazza signup page]: https://piazza.com/hawaii/spring2017/math215
+[MyLabsPlus]: http://www.hawaii.mylabsplus.com
+[MyLabsPlus website]: http://www.hawaii.mylabsplus.com
