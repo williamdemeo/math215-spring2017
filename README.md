@@ -122,7 +122,7 @@ Overview, Prerequisites, Outcomes
 ---------------------------------
 
 **Overview**  
-We will cover roughly Chapters 1--9, and 11 of [the textbook](#textbook),
+We will cover roughly Chapters 1--9, and 11 of [the textbook](#textbook-information)
 which includes the following topics:
 
 1. Preliminaries  
@@ -404,15 +404,14 @@ warning to expulsion from the university.
 
 
 
-Students With Disabilities
---------------------------
-If you have a documented disability
-or if you believe that you have a disability that qualifies under the
-Americans with Disabilities Act and Section 504 of the Rehabilitation
-Act and requires accommodations, you should contact the Student Disability
-Resources Office for information on appropriate policies and procedures.
+KOKUA Program (for students needing special accommodations)
+----------------------------------------------------------
+If you have a documented disability or if you believe that you have a disability
+that qualifies under the Americans with Disabilities Act and Section 504 of the
+Rehabilitation Act and requires accommodations, you should contact the Kokua
+Office, which provides resources for students with disabilities, for information
+on appropriate policies and procedures. 
 
-**KOKUA PROGRAM**
 [Kokua Program](http://www.hawaii.edu/kokua/)  
 Queen Lili'uokalani Center for Student Services 013   
 2600 Campus Road   
@@ -430,7 +429,8 @@ may be appropriately met.
 
 Your instructor will be happy to assist with accommodations, but will not
 provide them retroactively, **so the appropriate requests and paperwork 
-should be filed well before the first exam.**
+should be filed as early as possible,** and must be processed well before the 
+first time special accommodation is needed.
 
 ------------------------------------------------------------
 
