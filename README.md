@@ -133,8 +133,7 @@ which includes the following topics:
 6. Integration  
 
 **Prerequisites**  
-Satisfactory performance on placement exam, 2 years of high school algebra, 1
-year of geometry.
+Prerequisite: Math 140 or satisfactory performance on placement exam.
 
 **Learning Outcomes**  
 Generally speaking, students will master concepts and solve problems based on
