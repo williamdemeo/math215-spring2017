@@ -181,7 +181,7 @@ There will be three midterm exams each worth 15%, and a final exam worth
 **LOCATION:** your usual recitation classroom.
 
 + **FINAL EXAM** on Chapters 1--9 and 11.  
-**DATE:** Monday, May 8, 2017.
+**DATE:** Monday, May 8, 2017.  
 **TIME:** 12:00--14:00.  
 **LOCATION:** Bilger 150.
 
