@@ -17,16 +17,29 @@ The url for this page is https://github.com/williamdemeo/math215-spring2017
 								
 --------------------
 
-**Teaching Assistant:** John Robertson  
+## Teaching Assistants
+
+### Kenneth Corea
+
+**Email:** [kcorea at math dot hawaii dot edu](mailto:kcorea@math.hawaii.edu?subject=MATH
+215: (insert an informative subject line))  
+**Website:** [http://math.hawaii.edu/~kcorea/](http://math.hawaii.edu/~kcorea/)  
+**Office:** Keller 404B  
+**Office Hours:** TBD  
+**Recitation times/locations:**  
+ 	Section 1 (CRN 86480): WF 9:30--10:20am, Keller 301  
+ 	Section 3 (CRN 84310): WF 11:30am--12:20pm, Keller 402  
+
+---------------------------------
+
+### John Robertson
+
 **Email:** [johnrc at hawaii dot edu](mailto:johnrc@hawaii.edu?subject=MATH
 215: (insert an informative subject line))  
 **Website:** [http://math.hawaii.edu/~johncr/](http://math.hawaii.edu/~johncr/)  
 **Office:** Keller 404E  
 **Office Hours:** TBD  
-**Recitation times and locations:**  
- 	Section 1 (CRN 86480): WF 9:30--10:20am, Keller 301  
- 	Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
- 	Section 3 (CRN 84310): WF 11:30am--12:20pm, Keller 402  
+**Recitation times/location:** Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 
 ----------------------
 
