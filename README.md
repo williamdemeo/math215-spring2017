@@ -11,7 +11,7 @@ Math 215: Applied Calculus, Spring 2017
 
 This is the main repository and webpage for William DeMeo's section of Math 215.
 
-If you have questions, comments, or suggestions, please open a [New Issue](https://github.com/williamdemeo/math215-spring2017/issues/new).
+If you have questions, comments, or suggestions about this webpage please open a [New Issue](https://github.com/williamdemeo/math215-spring2017/issues/new).
 
 ---------------------------------------------
 
