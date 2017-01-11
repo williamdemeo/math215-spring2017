@@ -42,7 +42,7 @@ F 2/10 : 4.5; **MML HW Sections 4.1--4.3 DUE**
 ---------------------------------------------------------
 M 2/13 : 4.6  
 W 2/15 : Review and catch up; **MML HW Sections 4.4--4.6 DUE**  
-F 2/17 : EXAM 1 (focus: Chapters 3 and 4)  
+F 2/17 : **EXAM 1** (focus: Chapters 3 and 4)  
 
 ---------------------------------------------------------
 M 2/20 : (no class---Pres Day)  
@@ -84,7 +84,7 @@ F 3/31 : no class
 
 ---------------------------------------------------------
 M 4/03 : Review and catch up; **MML HW Sections 6.5 DUE**     
-W 4/05 : EXAM 2 (focus: Chapters 5 and 6)  
+W 4/05 : **EXAM 2** (focus: Chapters 5 and 6)  
 F 4/07 :  
 
 ---------------------------------------------------------
