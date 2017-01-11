@@ -1,7 +1,7 @@
 # Math 215 Spring 2017 Tentative Schedule
 
 This is a tentative and frequently updated schedule for Sections 1--3 of Math 215
-(Professor: William DeMeo).  
+(Instructor: William DeMeo).  
 Students are advised to check this page often!
 
 ------------------------------------------------
