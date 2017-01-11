@@ -79,7 +79,7 @@ hours this week on (fill in day/time).  Sincerely, (your full name)">send the
 - [Make-up Policy](#make-up-policy)
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
-- [3 Ways to Ask Questions](#3-ways-to-ask-questions)
+- [Asking Questions](#asking-questions)
 - [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
 - [Supplemental Instruction](#supplemental-instruction)
@@ -113,6 +113,8 @@ please keep track of your grades and refer to the
 [Grading Policy](#grading-policy) section below.
 
 
+--------------------------------------------------------
+
 Class Meeting Times
 -------------------
 **Lecture:** MWF 12:30--13:20 Bilger 150.
@@ -121,6 +123,9 @@ Class Meeting Times
 - Section 1 (CRN 86480): WF 9:30--10:20am, Keller 301  
 - Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 - Section 3 (CRN 84310): WF 11:30am--12:20pm, Keller 402  
+
+
+--------------------------------------------------------
 
 Overview, Prerequisites, Outcomes
 ---------------------------------
@@ -147,6 +152,8 @@ list of the course objectives, see the appendix section
 [Detailed Course Objectives](#detailed-course-objectives) below, or see the Math
 Department's generic [Math 215 webpage](https://math.hawaii.edu/wordpress/course/215/).
 
+--------------------------------------------------------
+
 Textbook Information
 --------------------
 **Title:** *Calculus for the Life Sciences* (2015)  
@@ -171,6 +178,7 @@ books that one could learn from, and some of the older editions are probably ava
 on the shelves of the library.  Of course, it's easier to follow along with the class
 if you have a copy of the same book that the instructor is using.
 
+-------------------------------------------
 
 Exams
 -----
@@ -204,6 +212,8 @@ In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
 the date of the final exam.  There are **no make-up final exams** for any reason.
 
+--------------------------------------------------------
+
 Quizzes
 -------
 There will be approximately 11 short quizzes, administered
@@ -214,6 +224,9 @@ roughly once per week during recitation.
 To accommodate circumstances that cause a student to miss a quiz,
 the lowest quiz score will be dropped at the end of the semester.
 The remaining quizzes will account for 10% of the final course grade.
+
+
+-------------------------------------------------------
 
 Online Homework
 ---------------
@@ -244,6 +257,7 @@ of the semester, also known as "dead week.")
 
 The lowest homework score will be dropped and not counted toward the final course grade.
 
+--------------------------------------------------------
 
 Handwritten Homework
 --------------------
@@ -260,6 +274,7 @@ However, for the purpose of asking questions about homework in lecture,
 recitation section, or office hours, as well as for studying for exams, it can
 be very helpful to have printed out hard copies of all the homework assignments.
 
+--------------------------------------------------------
 
 Make-up Policy
 --------------
@@ -288,6 +303,7 @@ with 80% of your final exam score. For example, if your excuse is accepted and
 you score a 90% on the final, then you will receive a 72% for the missed test
 (0.80*0.90 = 0.72).
 
+--------------------------------------------------------
 
 Grading Policy
 --------------
@@ -316,6 +332,8 @@ will occur at the end of the semester.
 + D-: 60--63   
 + F:  0--59    
 
+--------------------------------------------------------
+
 Attendance
 ----------
 **Students are expected to attend all classes.**
@@ -331,6 +349,7 @@ you to sign in for them, don't do it! Forging another student's signature
 constitutes a violation of the student code of conduct and will be referred to
 the dean's office or the university's office of judicial affairs.)
 
+
 Leaving Class Early
 -------------------
 If you plan to leave before class is over, the correct procedure is to mention
@@ -339,8 +358,11 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 
-3 Ways to Ask Questions
------------------------
+--------------------------------------------------------
+
+
+Asking Questions
+----------------
 
 When you don't understand something, please ask a question!
 
@@ -388,6 +410,7 @@ link</a>  to email the professor, then some of the required information should
 pre-populate your message fields.  If you do not at least
 indicate which class you are in, your email may be ignored.
 
+--------------------------------------------------------
 
 Use of Electronics During Lecture
 ---------------------------------
@@ -401,6 +424,7 @@ focus on what is being taught in the lecture, computers can be very distracting
 to other students. **Use of electronic devices in lecture for purposes unrelated
 to calculus will not be tolerated.**
 
+--------------------------------------------------------
 
 Academic Honesty
 ----------------
@@ -409,6 +433,7 @@ and dealt with by the Dean's Office or the University's Office of Judicial
 Affairs, in a  manner consistent with university regulations, which range from a
 warning to expulsion from the university.
 
+--------------------------------------------------------
 
 
 
@@ -482,6 +507,7 @@ Detailed Course Objectives
 - Apply the Fundamental Theorem of Calculus to evaluate definite integrals
 - Evaluate definite integrals by certain simple rules (substitution, integration by parts, etc.)
 
+--------------------------------------------------------
 
 Additional Resources
 --------------------
