@@ -232,7 +232,6 @@ Online Homework
 ---------------
 Solving lots of problems is the best way to prepare yourself to do well on the
 tests and quizzes, and ultimately to do well in the course.
-
 The **online homework will account for 15% of the course grade** and will be
 assigned once per week, typically due each Friday by midnight.
 
