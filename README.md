@@ -46,6 +46,10 @@ The url for this page is https://github.com/williamdemeo/math215-spring2017
 
 **Online Discussions (Piazza):** [piazza.com/hawaii/spring2017/math215/home](https://piazza.com/hawaii/spring2017/math215/home)
 
+**Online Homework (MyMathLab):** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)
+
+**MyMathLab Course ID:** demeo31232
+
 **Number of Credits: 4**
 
 --------------------------------------
@@ -154,7 +158,7 @@ Textbook Information
 course. It is also highly recommended that students have a hard copy of the
 textbook, so it's a good idea to buy the bundled version of the
 book from the bookstore, which comes with both a hard copy of
-the book and a MyMathLab access code.
+the book and a [MyMathLab][] access code.
 
 Having said that, the version of the textbook is not very important.
 What matters most is that every student has access to MyMathLabs.
@@ -167,9 +171,6 @@ books that one could learn from, and some of the older editions are probably ava
 on the shelves of the library.  Of course, it's easier to follow along with the class
 if you have a copy of the same book that the instructor is using.
 
-For your reference, here are links to the MyMathLabs for this class:
-
-TODO: insert links
 
 Exams
 -----
@@ -224,9 +225,15 @@ assigned once per week, typically due each Friday by midnight.
 
 All homework for this course will be done with [MyMathLab][].
 You will enroll yourself in our course by going to the 
-[MyMathLab website][] and using the following class key:
+[MyMathLab website][] and using the course ID **demeo31232**.
 
-**MyMathLab Class Key:** TBA
+**MyMathLab Course ID:** demeo31232
+
+**MyMathLab website:** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/)
+
+Go to the [MyMathLab website][] and follow the instructions detailed in the
+document [MyMathLab-Registration-Instructions-demeo31232.pdf](https://github.com/williamdemeo/math215-spring2017/raw/master/handouts/MyMathLab-Registration-Instructions-demeo31232.pdf)
+which is located in the [handouts](https://github.com/williamdemeo/math215-spring2017/tree/master/handouts) directory.
 
 The problems assigned and the due dates will be clearly indicated on the
 MyMathLab website, so students must login frequently and check for newly
@@ -244,8 +251,9 @@ To get the most out of the homework, and to prepare yourself well for the in-cla
 (hand-written) tests and exams, it is a very good idea to print out hard copies
 of each homework assignment, take these hard copies to a quiet place like the
 library, and work on them using a pencil.
-Thereafter, you should go through the assignment from the beginning while logged into MyMathLab
-and submit your answers, using your handwritten notes and solutions as a guide.  
+Thereafter, you should go through the assignment from the beginning while logged
+into [MyMathLab][] and submit your answers, using your handwritten notes and
+solutions as a guide.   
 
 Hand-written work will not be submitted for grading.
 However, for the purpose of asking questions about homework in lecture,
@@ -356,8 +364,9 @@ When you don't understand something, please ask a question!
    
    https://piazza.com/hawaii/spring2017/math215
 
-3. **MyMathLab** Another way to ask a question is by using the "Ask my instructor" link on
-   MyMathLab. This method is convenient for the teaching staff because details
+3. **MyMathLab** Another way to ask a question is by using the "Ask my
+   instructor" link that is attached to each of your [MyMathLab][] homework
+   questions. This method is convenient for the teaching staff because details
    about the problem you're asking about are automatically embedded 
    in your email.
 
@@ -476,13 +485,16 @@ Detailed Course Objectives
 
 Additional Resources
 --------------------
-+ [Piazza (for online discussions)](https://piazza.com/hawaii/spring2017/math215/home)
++ [Piazza](https://piazza.com/hawaii/spring2017/math215/home)  (for online discussions)
++ [MyMathLab][] (for homework)
 + [MyLabsPlus][]
 + [UH Math Department](http://www.math.hawaii.edu/)
-+ [Math Stackexchange](http://math.stackexchange.com/)
++ [Math Stackexchange](http://math.stackexchange.com/) (a math Q&A website)
 
 [Piazza]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza page]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza signup page]: https://piazza.com/hawaii/spring2017/math215
 [MyLabsPlus]: http://www.hawaii.mylabsplus.com
 [MyLabsPlus website]: http://www.hawaii.mylabsplus.com
+[MyMathLab]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
+[MyMathLab website]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
