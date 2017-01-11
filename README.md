@@ -168,7 +168,7 @@ book from the bookstore, which comes with both a hard copy of
 the book and a [MyMathLab][] access code.
 
 Having said that, the version of the textbook is not very important.
-What matters most is that every student has access to MyMathLabs.
+What matters most is that every student has access to [MyMathLab][].
 
 For reference, the textbook used by your instructor of this class is the 2nd edition of
 "Calculus for the Life Sciences," published in 2015. However, the subject of
@@ -513,14 +513,11 @@ Additional Resources
 --------------------
 + [Piazza](https://piazza.com/hawaii/spring2017/math215/home)  (for online discussions)
 + [MyMathLab][] (for homework)
-+ [MyLabsPlus][]
 + [UH Math Department](http://www.math.hawaii.edu/)
 + [Math Stackexchange](http://math.stackexchange.com/) (a math Q&A website)
 
 [Piazza]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza page]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza signup page]: https://piazza.com/hawaii/spring2017/math215
-[MyLabsPlus]: http://www.hawaii.mylabsplus.com
-[MyLabsPlus website]: http://www.hawaii.mylabsplus.com
 [MyMathLab]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
 [MyMathLab website]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
