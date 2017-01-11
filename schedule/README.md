@@ -4,6 +4,8 @@ This is a tentative and frequently updated schedule for Sections 1--3 of Math 21
 (Professor: William DeMeo).  
 Students are advised to check this page often!
 
+------------------------------------------------
+
 ## January
 
 ---------------------------------------------------------
@@ -22,6 +24,10 @@ F 1/20: 3.2 Continuity; **MML HW Chapters 1 and 2 DUE**
 M 1/23: 3.3  
 W 1/25: 3.4  
 F 1/27: 3.5; **MML HW Sections 3.1--3.3 DUE**    
+
+------------------------------------------------
+
+## February 
 
 ---------------------------------------------------------
 M 1/30: Review and catch up  
@@ -42,6 +48,10 @@ F 2/17 : EXAM 1 (focus: Chapters 3 and 4)
 M 2/20 : (no class---Pres Day)  
 W 2/22 : 5.1  
 F 2/24 : 5.2  
+
+------------------------------------------------
+
+## March
 
 ---------------------------------------------------------
 M 2/27 : 5.3  
@@ -67,6 +77,10 @@ F 3/24 : 6.5; **MML HW Sections 6.3, 6.4 DUE**
 M 3/27 : no class  
 W 3/29 : no class  
 F 3/31 : no class  
+
+---------------------------------------
+
+## April
 
 ---------------------------------------------------------
 M 4/3 : Review and catch up; **MML HW Sections 6.5 DUE**     
