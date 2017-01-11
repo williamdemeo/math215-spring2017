@@ -6,14 +6,24 @@ Math 215: Applied Calculus, Spring 2017
 215: (insert an informative subject line))  
 **Office:** Physical Sciences Building (PSB) 402.  
 **Office hours:** TBD  
-**Lecture times and locations:** MWF 12:30--13:20, Bilger 150.
+**Lecture times and locations:** MWF 12:30--13:20, Bilger 150.  
+**Number of Credits: 4**
 
 This is the main repository and webpage for William DeMeo's section of Math 215.
 
-If you have questions, comments, or suggestions, please open a [New Issue].
+If you have questions, comments, or suggestions, please open a [New Issue](https://github.com/williamdemeo/math215-spring2017/issues/new).
 
-The url for this page is https://github.com/williamdemeo/math215-spring2017
+---------------------------------------------
 
+## Important Links
+
+**Main Course Webpage:** [github.com/williamdemeo/math215-spring2017](https://github.com/williamdemeo/math215-spring2017)
+
+**Online Discussions (Piazza):** [piazza.com/hawaii/spring2017/math215/home](https://piazza.com/hawaii/spring2017/math215/home)
+
+**Online Homework (MyMathLab):** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)
+
+**MyMathLab Course ID:** demeo31232
 								
 --------------------
 
@@ -41,16 +51,6 @@ The url for this page is https://github.com/williamdemeo/math215-spring2017
 **Office Hours:** TBD  
 **Recitation times/location:** Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 
-
-**Main Course Webpage:** [github.com/williamdemeo/math215-spring2017](https://github.com/williamdemeo/math215-spring2017)
-
-**Online Discussions (Piazza):** [piazza.com/hawaii/spring2017/math215/home](https://piazza.com/hawaii/spring2017/math215/home)
-
-**Online Homework (MyMathLab):** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)
-
-**MyMathLab Course ID:** demeo31232
-
-**Number of Credits: 4**
 
 --------------------------------------
 
