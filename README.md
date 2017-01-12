@@ -4,8 +4,8 @@ Math 215: Applied Calculus, Spring 2017
 **Instructor:**  Dr. William DeMeo  
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 215: (insert an informative subject line))  
-**Office:** Physical Sciences Building (PSB) 402.  
-**Office hours:** TBD  
+**Office:** Physical Sciences Building (PSB) 404.  
+**Office hours:** Tue, Thu 12:30--1:20pm, and Tue 3--3:30pm.  
 **Lecture times and locations:** MWF 12:30--13:20, Bilger 150.  
 **Number of Credits: 4**
 
