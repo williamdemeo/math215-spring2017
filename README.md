@@ -4,16 +4,26 @@ Math 215: Applied Calculus, Spring 2017
 **Instructor:**  Dr. William DeMeo  
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 215: (insert an informative subject line))  
-**Office:** Physical Sciences Building (PSB) 402.  
-**Office hours:** TBD  
-**Lecture times and locations:** MWF 12:30--13:20, Bilger 150.
+**Office:** Physical Sciences Building (PSB) 404.  
+**Office hours:** Tue, Thu 12:30--1:20pm, and Tue 3--3:30pm.  
+**Lecture times and locations:** MWF 12:30--13:20, Bilger 150.  
+**Number of Credits: 4**
 
 This is the main repository and webpage for William DeMeo's section of Math 215.
 
-If you have questions, comments, or suggestions, please open a [New Issue].
+If you have questions, comments, or suggestions about this webpage please open a [New Issue](https://github.com/williamdemeo/math215-spring2017/issues/new).
 
-The url for this page is https://github.com/williamdemeo/math215-spring2017
+---------------------------------------------
 
+## Important Links
+
+**Main Course Webpage:** [github.com/williamdemeo/math215-spring2017](https://github.com/williamdemeo/math215-spring2017)
+
+**Online Discussions (Piazza):** [piazza.com/hawaii/spring2017/math215/home](https://piazza.com/hawaii/spring2017/math215/home)
+
+**Online Homework (MyMathLab):** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/northamerica/mymathlab/)
+
+**MyMathLab Course ID:** demeo31232
 								
 --------------------
 
@@ -42,12 +52,6 @@ The url for this page is https://github.com/williamdemeo/math215-spring2017
 **Recitation times/location:** Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 
 
-**Main Course Webpage:** [github.com/williamdemeo/math215-spring2017](https://github.com/williamdemeo/math215-spring2017)
-
-**Online Discussions (Piazza):** [piazza.com/hawaii/spring2017/math215/home](https://piazza.com/hawaii/spring2017/math215/home)
-
-**Number of Credits: 4**
-
 --------------------------------------
 
 **Remarks about office hours:**
@@ -75,7 +79,7 @@ hours this week on (fill in day/time).  Sincerely, (your full name)">send the
 - [Make-up Policy](#make-up-policy)
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
-- [3 Ways to Ask Questions](#3-ways-to-ask-questions)
+- [Asking Questions](#asking-questions)
 - [Email Policy](#email-policy)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
 - [Supplemental Instruction](#supplemental-instruction)
@@ -109,6 +113,8 @@ please keep track of your grades and refer to the
 [Grading Policy](#grading-policy) section below.
 
 
+--------------------------------------------------------
+
 Class Meeting Times
 -------------------
 **Lecture:** MWF 12:30--13:20 Bilger 150.
@@ -117,6 +123,9 @@ Class Meeting Times
 - Section 1 (CRN 86480): WF 9:30--10:20am, Keller 301  
 - Section 2 (CRN 81248): WF 10:30--11:20am, Keller 403  
 - Section 3 (CRN 84310): WF 11:30am--12:20pm, Keller 402  
+
+
+--------------------------------------------------------
 
 Overview, Prerequisites, Outcomes
 ---------------------------------
@@ -143,6 +152,8 @@ list of the course objectives, see the appendix section
 [Detailed Course Objectives](#detailed-course-objectives) below, or see the Math
 Department's generic [Math 215 webpage](https://math.hawaii.edu/wordpress/course/215/).
 
+--------------------------------------------------------
+
 Textbook Information
 --------------------
 **Title:** *Calculus for the Life Sciences* (2015)  
@@ -154,10 +165,10 @@ Textbook Information
 course. It is also highly recommended that students have a hard copy of the
 textbook, so it's a good idea to buy the bundled version of the
 book from the bookstore, which comes with both a hard copy of
-the book and a MyMathLab access code.
+the book and a [MyMathLab][] access code.
 
 Having said that, the version of the textbook is not very important.
-What matters most is that every student has access to MyMathLabs.
+What matters most is that every student has access to [MyMathLab][].
 
 For reference, the textbook used by your instructor of this class is the 2nd edition of
 "Calculus for the Life Sciences," published in 2015. However, the subject of
@@ -167,9 +178,7 @@ books that one could learn from, and some of the older editions are probably ava
 on the shelves of the library.  Of course, it's easier to follow along with the class
 if you have a copy of the same book that the instructor is using.
 
-For your reference, here are links to the MyMathLabs for this class:
-
-TODO: insert links
+-------------------------------------------
 
 Exams
 -----
@@ -203,6 +212,8 @@ In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
 the date of the final exam.  There are **no make-up final exams** for any reason.
 
+--------------------------------------------------------
+
 Quizzes
 -------
 There will be approximately 11 short quizzes, administered
@@ -214,19 +225,27 @@ To accommodate circumstances that cause a student to miss a quiz,
 the lowest quiz score will be dropped at the end of the semester.
 The remaining quizzes will account for 10% of the final course grade.
 
+
+-------------------------------------------------------
+
 Online Homework
 ---------------
 Solving lots of problems is the best way to prepare yourself to do well on the
 tests and quizzes, and ultimately to do well in the course.
-
 The **online homework will account for 15% of the course grade** and will be
 assigned once per week, typically due each Friday by midnight.
 
 All homework for this course will be done with [MyMathLab][].
 You will enroll yourself in our course by going to the 
-[MyMathLab website][] and using the following class key:
+[MyMathLab website][] and using the course ID **demeo31232**.
 
-**MyMathLab Class Key:** TBA
+**MyMathLab Course ID:** demeo31232
+
+**MyMathLab website:** [http://www.pearsonmylabandmastering.com](http://www.pearsonmylabandmastering.com/)
+
+Go to the [MyMathLab website][] and follow the instructions detailed in the
+document [MyMathLab-Registration-Instructions-demeo31232.pdf](https://github.com/williamdemeo/math215-spring2017/raw/master/handouts/MyMathLab-Registration-Instructions-demeo31232.pdf)
+which is located in the [handouts](https://github.com/williamdemeo/math215-spring2017/tree/master/handouts) directory.
 
 The problems assigned and the due dates will be clearly indicated on the
 MyMathLab website, so students must login frequently and check for newly
@@ -237,6 +256,7 @@ of the semester, also known as "dead week.")
 
 The lowest homework score will be dropped and not counted toward the final course grade.
 
+--------------------------------------------------------
 
 Handwritten Homework
 --------------------
@@ -244,14 +264,16 @@ To get the most out of the homework, and to prepare yourself well for the in-cla
 (hand-written) tests and exams, it is a very good idea to print out hard copies
 of each homework assignment, take these hard copies to a quiet place like the
 library, and work on them using a pencil.
-Thereafter, you should go through the assignment from the beginning while logged into MyMathLab
-and submit your answers, using your handwritten notes and solutions as a guide.  
+Thereafter, you should go through the assignment from the beginning while logged
+into [MyMathLab][] and submit your answers, using your handwritten notes and
+solutions as a guide.   
 
 Hand-written work will not be submitted for grading.
 However, for the purpose of asking questions about homework in lecture,
 recitation section, or office hours, as well as for studying for exams, it can
 be very helpful to have printed out hard copies of all the homework assignments.
 
+--------------------------------------------------------
 
 Make-up Policy
 --------------
@@ -280,6 +302,7 @@ with 80% of your final exam score. For example, if your excuse is accepted and
 you score a 90% on the final, then you will receive a 72% for the missed test
 (0.80*0.90 = 0.72).
 
+--------------------------------------------------------
 
 Grading Policy
 --------------
@@ -308,6 +331,8 @@ will occur at the end of the semester.
 + D-: 60--63   
 + F:  0--59    
 
+--------------------------------------------------------
+
 Attendance
 ----------
 **Students are expected to attend all classes.**
@@ -323,6 +348,7 @@ you to sign in for them, don't do it! Forging another student's signature
 constitutes a violation of the student code of conduct and will be referred to
 the dean's office or the university's office of judicial affairs.)
 
+
 Leaving Class Early
 -------------------
 If you plan to leave before class is over, the correct procedure is to mention
@@ -331,8 +357,11 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 
-3 Ways to Ask Questions
------------------------
+--------------------------------------------------------
+
+
+Asking Questions
+----------------
 
 When you don't understand something, please ask a question!
 
@@ -356,8 +385,9 @@ When you don't understand something, please ask a question!
    
    https://piazza.com/hawaii/spring2017/math215
 
-3. **MyMathLab** Another way to ask a question is by using the "Ask my instructor" link on
-   MyMathLab. This method is convenient for the teaching staff because details
+3. **MyMathLab** Another way to ask a question is by using the "Ask my
+   instructor" link that is attached to each of your [MyMathLab][] homework
+   questions. This method is convenient for the teaching staff because details
    about the problem you're asking about are automatically embedded 
    in your email.
 
@@ -379,6 +409,7 @@ link</a>  to email the professor, then some of the required information should
 pre-populate your message fields.  If you do not at least
 indicate which class you are in, your email may be ignored.
 
+--------------------------------------------------------
 
 Use of Electronics During Lecture
 ---------------------------------
@@ -392,6 +423,7 @@ focus on what is being taught in the lecture, computers can be very distracting
 to other students. **Use of electronic devices in lecture for purposes unrelated
 to calculus will not be tolerated.**
 
+--------------------------------------------------------
 
 Academic Honesty
 ----------------
@@ -400,6 +432,7 @@ and dealt with by the Dean's Office or the University's Office of Judicial
 Affairs, in a  manner consistent with university regulations, which range from a
 warning to expulsion from the university.
 
+--------------------------------------------------------
 
 
 
@@ -473,16 +506,17 @@ Detailed Course Objectives
 - Apply the Fundamental Theorem of Calculus to evaluate definite integrals
 - Evaluate definite integrals by certain simple rules (substitution, integration by parts, etc.)
 
+--------------------------------------------------------
 
 Additional Resources
 --------------------
-+ [Piazza (for online discussions)](https://piazza.com/hawaii/spring2017/math215/home)
-+ [MyLabsPlus][]
++ [Piazza](https://piazza.com/hawaii/spring2017/math215/home)  (for online discussions)
++ [MyMathLab][] (for homework)
 + [UH Math Department](http://www.math.hawaii.edu/)
-+ [Math Stackexchange](http://math.stackexchange.com/)
++ [Math Stackexchange](http://math.stackexchange.com/) (a math Q&A website)
 
 [Piazza]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza page]: https://piazza.com/hawaii/spring2017/math215/home
 [Piazza signup page]: https://piazza.com/hawaii/spring2017/math215
-[MyLabsPlus]: http://www.hawaii.mylabsplus.com
-[MyLabsPlus website]: http://www.hawaii.mylabsplus.com
+[MyMathLab]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
+[MyMathLab website]: http://www.pearsonmylabandmastering.com/northamerica/mymathlab/
