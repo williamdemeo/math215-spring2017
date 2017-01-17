@@ -182,21 +182,16 @@ if you have a copy of the same book that the instructor is using.
 
 Exams
 -----
-There will be three midterm exams each worth 15%, and a final exam worth
-25% of the course grade.
+There will be two midterm exams each worth 20%, and a final exam worth
+30% of the course grade.
 
-+ **MIDTERM EXAM 1** (focus on Chapters 1--3)  
-**DATE:** TBD  
++ **MIDTERM EXAM 1** (focus on Chapters 3--4)  
+**DATE:** Friday, February 17  
 **TIME:** your usual recitation meeting time.  
 **LOCATION:** your usual recitation classroom.
   
-+ **MIDTERM EXAM 2** (focus on Chapters 4--6)  
-**DATE:** TBD  
-**TIME:** your usual recitation meeting time.  
-**LOCATION:** your usual recitation classroom.
-
-+ **MIDTERM EXAM 3** (focus on Chapters 7--9)  
-**DATE:** Tuesday, November 17.  
++ **MIDTERM EXAM 2** (focus on Chapters 5--6)  
+**DATE:** Wednesday, March 22  
 **TIME:** your usual recitation meeting time.  
 **LOCATION:** your usual recitation classroom.
 
@@ -309,8 +304,8 @@ Grading Policy
 The breakdown of the final course grade is as follows:  
 
 + Final exam: 30 points  
-+ Mid-term exams: 45 points (15 each)  
-+ Homework: 15 points total  
++ Mid-term exams: 40 points (20 each)  
++ Homework: 20 points total  
 + Quizzes/Recitation Grade: 10 points
 
 At the end of the semester, letter grades will be assigned roughly according to
