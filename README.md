@@ -5,7 +5,7 @@ Math 215: Applied Calculus, Spring 2017
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 215: (insert an informative subject line))  
 **Office:** Physical Sciences Building (PSB) 404.  
-**Office hours:** Tue, Thu 12:30--1:20pm, and Tue 3--3:30pm.  
+**Office hours:** Tue, Thu 12--1, and Tue 3--4.  
 **Lecture times and locations:** MWF 12:30--13:20, Bilger 150.  
 **Number of Credits: 4**
 
