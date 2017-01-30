@@ -31,8 +31,7 @@ If you have questions, comments, or suggestions about this webpage please open a
 
 ### Kenneth Corea
 
-**Email:** [kcorea at math dot hawaii dot edu](mailto:kcorea@math.hawaii.edu?subject=MATH
-215: (insert an informative subject line))  
+**Email:** [kcorea at math dot hawaii dot edu](mailto:kcorea@math.hawaii.edu?subject=MATH 215: (insert an informative subject line))  
 **Website:** [http://math.hawaii.edu/~kcorea/](http://math.hawaii.edu/~kcorea/)  
 **Office:** Keller 404B  
 **Office Hours:** TBD  
@@ -44,8 +43,7 @@ If you have questions, comments, or suggestions about this webpage please open a
 
 ### John Robertson
 
-**Email:** [johnrc at hawaii dot edu](mailto:johnrc@hawaii.edu?subject=MATH
-215: (insert an informative subject line))  
+**Email:** [johncr at hawaii dot edu](mailto:johncr@hawaii.edu?subject=MATH 215: (insert an informative subject line))  
 **Website:** [http://math.hawaii.edu/~johncr/](http://math.hawaii.edu/~johncr/)  
 **Office:** Keller 404E  
 **Office Hours:** TBD  
