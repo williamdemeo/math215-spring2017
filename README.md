@@ -185,13 +185,13 @@ There will be two midterm exams each worth 20%, and a final exam worth
 
 + **MIDTERM EXAM 1** (focus on Chapters 3--4)  
 **DATE:** Friday, February 17  
-**TIME:** your usual recitation meeting time.  
-**LOCATION:** your usual recitation classroom.
-  
-+ **MIDTERM EXAM 2** (focus on Chapters 5--6)  
-**DATE:** Wednesday, March 22  
-**TIME:** your usual recitation meeting time.  
-**LOCATION:** your usual recitation classroom.
+**TIME:** 12:30--1:20pm.  
+**LOCATION:** Bilger 150.
+
++ **MIDTERM EXAM 2** (focus on Chapters 5--6)  5
+**DATE:** Wednesday, March 22
+**TIME:** 12:30--1:20pm
+**LOCATION:** Bilger 150.
 
 + **FINAL EXAM** on Chapters 1--9 and 11.  
 **DATE:** Monday, May 8, 2017.  
