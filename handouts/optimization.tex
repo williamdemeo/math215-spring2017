@@ -1,0 +1,247 @@
+%%% Uncomment only one of the next two lines (depending on whether you want the answers printed)
+\documentclass[fleqn,addpoints,12pt]{exam}
+%%\documentclass[answers,addpoints,12pt]{exam}
+
+\usepackage[usenames, dvipsnames]{color} % defines a new color
+%\definecolor{SolutionColor}{rgb}{0.8,0.9,1} % light blue
+
+\renewcommand{\solutiontitle}{\noindent\textbf{Answer: }}
+
+%% How to print correct answer choices:
+   \CorrectChoiceEmphasis{\itshape\bfseries} %% <-- bold italics
+%%    
+%% \CorrectChoiceEmphasis{\color{ForestGreen}\bfseries} %% <-- green bold
+
+\pointsinmargin
+\pointpoints{pt}{pts}
+\marginpointname{pts}
+
+\makeatletter
+\newif\ifanswers
+\@ifclasswith{exam}{answers}{\answerstrue}{\answersfalse}
+\makeatother
+\newcommand{\scratchpage}{%
+  \ifanswers % do nothing
+  \else \newpage \thispagestyle{empty} \begin{center} -- scratch -- \end{center} \fi}
+
+\newcommand{\foo}{\ifanswers fooone\else footwo\fi}
+
+%% Change geometry if you want:
+%% \usepackage[top=2cm, left=2cm,right=2cm,bottom=1cm]{geometry}%
+
+\usepackage{amsmath}
+\usepackage{amsthm,amssymb}
+\usepackage{mathtools}
+\usepackage{url,multicol,enumerate}
+\usepackage{tikz}
+
+\theoremstyle{remark}
+\newtheorem{theorem}{Theorem}
+\newtheorem*{prop}{Proposition}
+\newtheorem{problem}{Problem}
+\newtheorem*{prob}{Problem}
+\newtheorem*{answer}{{\bf Answer}}
+\newtheorem*{answers}{{\bf Answers}}
+\newtheorem*{explanation}{{\bf Explanation}}
+\newtheorem*{hint}{{\it Hint}}
+\newtheorem*{ex}{Exercise}
+
+
+%% Some of my own personal favoriate macros... (remove these if you want)
+\renewcommand{\vec}[1]{\mathbf{#1}}
+%%       To make a boldface vector, use backslash v in front of the 
+%%       letter and add a new command for that letter here or in 
+%%       the macros.tex file:
+\newcommand\rank{\ensuremath{\operatorname{rank}}}
+\newcommand\nullity{\ensuremath{\operatorname{nullity}}}
+\newcommand{\<}{\ensuremath{\langle}}
+\renewcommand{\>}{\ensuremath{\rangle}}
+\newcommand{\ur}{\ensuremath{\underline{\mathrm{r}}}}
+\newcommand{\uT}{\ensuremath{\underline{\mathrm{T}}}}
+\newcommand{\uF}{\ensuremath{\underline{\mathrm{F}}}}
+\newcommand{\uN}{\ensuremath{\underline{\mathrm{N}}}}
+\newcommand{\ui}{\ensuremath{\underline{\mathrm{i}}}}
+\newcommand{\uj}{\ensuremath{\underline{\mathrm{j}}}}
+\newcommand{\ua}{\ensuremath{\underline{\mathrm{a}}}}
+\newcommand{\ub}{\ensuremath{\underline{\mathrm{b}}}}
+\newcommand{\un}{\ensuremath{\underline{\mathrm{n}}}}
+\newcommand{\uv}{\ensuremath{\underline{\mathrm{v}}}}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand\va{\vec{a}}
+\newcommand\vb{\vec{b}}
+\newcommand\vu{\vec{u}}
+\newcommand\vv{\vec{v}}
+\newcommand\vw{\vec{w}}
+\newcommand\vs{\vec{s}}
+\newcommand\vx{\vec{x}}
+\newcommand\vy{\vec{y}}
+\newcommand\vz{\vec{z}}
+\newcommand\vzero{\vec{0}}
+
+
+\newcommand{\dotsize}{1pt}
+\newcommand{\Heq}{\ensuremath{ \; \stackrel{\mathrm{H}}{=}} \; }
+
+\pagestyle{foot}
+%%% Running footer will have a space for page score (if this is not the solution key)
+% \ifanswers  %% do nothing
+% \else
+% \runningfooter{}{}{Score for this page: \makebox[1in]{\hrulefill} out of \pointsonpage{\thepage}}
+% \fi
+
+
+\begin{document}
+
+\noindent {\bf Optimization and Related Rates Examples}
+\hfill \ifanswers {\bf ANSWERS}\fi
+
+\newcommand\probskip{\vskip2cm}
+
+\bigskip
+
+\newcommand\mcval{3}
+
+\begin{questions} % Begins the questions environment
+
+  %%%% Problem 1.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+  \question After acing your calculus exam, you decide to apply what you have learned.
+  You move to Colorado and start a marijuana farm.  You have \$8000 to spend on 
+  an enclosure for a rectangular garden. 
+  Along one side of the garden is a brick wall (which you don't have to pay
+  for).  Two sides of the garden will be perpendicular to the wall and 
+  made of wood fencing which costs \$20 per foot. The side parallel to the wall
+  will be made of chain link fence which costs \$10 per foot.  If you have
+  \$8000 to spend on the enclosure, what dimensions will maximize the area of the garden?
+
+  (Hint: draw a picture; write down an area function, which you want to 
+  maximize; write down a cost function, which will equal 8000.) 
+
+
+  \vfill
+
+  \hfill length of perpendicular side: \phantom{XXXXXXXXXXXX} ft\\
+  \phantom{XX} ~ \hfill  \underline{\phantom{XXXXXXXXXXXXX}}
+  \vskip1cm
+  \hfill length of parallel side: \phantom{XXXXXXXXXXXX}ft\\
+  \phantom{XX} ~ \hfill  \underline{\phantom{XXXXXXXXXXXXX}}
+  \vskip1cm
+  \hfill total area: \phantom{XXXXXXXXXXXX} ft$^2$\\
+  \phantom{XX} ~ \hfill  \underline{\phantom{XXXXXXXXXXXXX}}
+\\
+\hrule
+\hskip-.7cm  Author: William DeMeo \url{williamdemeo@gmail.com}
+
+\hskip-.7cm Updated: March 15, 2017
+  \newpage
+  %%%% Problem 2.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+  \question
+  \begin{minipage}[t]{0.35\textwidth}
+    According to a recent study, Def Jam Records spent \$1,078,000
+    producing Rihanna's single ``Man Down.''
+    % (\$78,000 for musicians and
+    % songwriters, and \$1,000,000 for marketing and promotion of the single).
+
+    Generally speaking, the demand for song downloads goes down as 
+    the price per download goes up. 
+    Suppose the quantity $q$ of downloads demanded is given by the
+    following function of price:
+    \begin{equation}
+      \label{eq:1}
+      q = \frac{12000000}{p^2+9}.
+    \end{equation}
+    The revenue generated from selling $q$ downloads at price $p$
+    (dollars) is price times quantity: $R(p) = qp$.
+  \end{minipage}
+  % second column
+  \begin{minipage}[t]{0.65\textwidth}
+    \vskip-4mm
+    \begin{center}
+      \includegraphics[height=3.5in]{RihannaCost}
+    \end{center}
+  \end{minipage}
+
+  \bigskip
+
+  What price should Def Jam charge for each download in order to
+  maximize revenue? ({\it Hint:} Use Eq.~(\ref{eq:1}) to express 
+  revenue as a function of price only, then differentiate.)
+
+  \ifthenelse{\boolean{answers}}{\\[4pt]Answer: (b) \$1.}{}
+  %% \item Find the absolute maximum and absolute minimum values of
+  %%   $f(x) = x^3 - 3x + 1$ on the interval $[0,3]$.
+
+  \newpage
+  %%%% Problem 3.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+  \question
+  Each side of a square is increasing at a rate of 2 cm/s. At what rate is
+  the area of the square increasing when the area of the square is 49
+  $\mathrm{cm}^2$?  (Include appropriate units.)
+
+  \vfill
+
+  \hfill {\bf Answer:} $A'= $ \phantom{XXXXXXXXXXXXXX}\\%$\mathrm{cm}^2/\mathrm{s}$ \\
+  \phantom{XX} ~ \hfill  \underline{\phantom{XXXXXXXXXXXXXXX}}
+
+  \bigskip
+
+  \newpage
+  %%%% Problem 4.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+  \question After acing your calculus exam, you are hired at the Near Earth
+  Object Observatory atop a volcano on the island of Maui. Your job is to
+  support the early detection system for meteors that might impact
+  earth.  On your first day you discover a meteor, in the shape
+  of a perfect sphere, fast approaching earth.  As it
+  travels through the earth's atmosphere and burns up, its surface area
+  decreases at a rate of $24 \pi$ $\mbox{m}^2$/second.
+  \begin{parts}
+  \part At what rate is the radius decreasing when the radius is 3 meters?\\
+    (Hint: Surface area of a sphere is $S = 4 \pi r^2$; apply the chain rule.)
+    \vskip5cm
+
+  \part
+    In solving Part i, you hopefully found $r'(t)$, the rate of change of the radius.
+    Now write down an integral expression that gives the total change in the radius as time
+    goes from $a$ seconds to $b$ seconds.
+
+    \vskip5cm
+    \part Suppose at time $t=1$ the meteor is observed to have a
+    radius of 32 meters, and suppose it will reach the earth 
+    after $e^{10}\approx 22026$ seconds, what will be its radius upon impact?
+
+  \end{parts}
+
+
+\end{questions}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
