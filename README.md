@@ -193,7 +193,7 @@ There will be two midterm exams each worth 20%, and a final exam worth
 **TIME:** 12:30--13:20  
 **LOCATION:** Bilger 150.
 
-+ **FINAL EXAM** on Chapters 1--9 and 11.  
++ **FINAL EXAM** on Chs. 1--8 and Secs. 11.1, 11.2.  
 **DATE:** Monday, May 8, 2017.  
 **TIME:** 12:00--14:00.  
 **LOCATION:** Bilger 150.
